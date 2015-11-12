@@ -1,1 +1,4 @@
 a.out
+*.exe
+echo_server
+utlity_client
